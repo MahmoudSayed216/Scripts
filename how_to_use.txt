@@ -22,7 +22,7 @@ CourseName,CreditHours,YourGrade #without any spaces and avoid abbreviations suc
 Ex: 
 English2,2,D
 
-after you finish listing the courses of a specific semester, write a single underscore '_' as a separator, this helps in providing a detailed report []
+after you finish listing the courses of a specific semester, write a single underscore '_' as a separator, this helps in providing a detailed report [not yet implemented]
 if you don't want a report just list all the courses without any separators
 
 Ex:

@@ -1,0 +1,23 @@
+fill the my_grades.txt file with your grades in the following format:
+CourseName,CreditHours,YourGrade #without any spaces and avoid abbreviations such as IOT. Instead write InternetOfThings
+
+Ex: 
+English2,2,D
+
+after you finish listing the courses of a specific semester, write a single underscore '_' as a separator, this helps in providing a detailed report
+if you don't want a report just list all the courses without any separators
+
+Ex:
+Course1,CH1,G1
+Course2,CH2,G2
+...
+Course6,CH6,G6
+_
+Course7,CH7,G7
+....
+CourseN,CHN,GN
+
+
+
+
+run gpa_calculator.py

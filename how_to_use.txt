@@ -1,10 +1,28 @@
-fill the my_grades.txt file with your grades in the following format:
+TLDR:
+create a file named my_grades.txt
+and list your grades in the following format:
+CoursName,CreditHours,Grade
+EX: 
+English2,2,D
+
+if course name has spaces, dont write the spaces
+EX:
+InternetOfThings
+
+
+##############################
+##############################
+##############################
+##############################
+
+
+create a file named my_grades.txt and fill it  with your grades in the following format:
 CourseName,CreditHours,YourGrade #without any spaces and avoid abbreviations such as IOT. Instead write InternetOfThings
 
 Ex: 
 English2,2,D
 
-after you finish listing the courses of a specific semester, write a single underscore '_' as a separator, this helps in providing a detailed report
+after you finish listing the courses of a specific semester, write a single underscore '_' as a separator, this helps in providing a detailed report []
 if you don't want a report just list all the courses without any separators
 
 Ex:

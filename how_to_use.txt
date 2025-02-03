@@ -10,6 +10,7 @@ if course name has spaces, dont write the spaces
 EX:
 InternetOfThings
 
+then run the script
 
 ##############################
 ##############################

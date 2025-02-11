@@ -1,12 +1,12 @@
 TLDR:
 create a file named my_grades.txt
 and list your grades in the following format:
-CoursName,CreditHours,Grade
+CourseName,CreditHours,Grade
 EX: 
 English2,2,D
 IOT,3,A
 
-if course name has spaces, dont write the spaces
+if course name has spaces, dont type the spaces
 EX:
 InternetOfThings
 

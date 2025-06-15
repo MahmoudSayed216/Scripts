@@ -1,43 +1,13 @@
-TLDR:
-create a file named my_grades.txt
-and list your grades in the following format:
-CourseName,CreditHours,Grade
-EX: 
-English2,2,D
-IOT,3,A
+1- create a text file and name it "my_grades.txt" and put it within the same folder where the script is located
+2- list all the courses below each other in this format
 
-if course name has spaces, dont type the spaces
-EX:
-InternetOfThings
+course name,number of credit hours,obtained grade
+
+example:
+
+English1,2,A-
+IoT,4,C+
+BlahBlah,3,B+
+
 
 then run the script
-
-##############################
-##############################
-##############################
-##############################
-
-
-create a file named my_grades.txt and fill it  with your grades in the following format:
-CourseName,CreditHours,YourGrade #without any spaces and avoid abbreviations such as IOT. Instead write InternetOfThings
-
-Ex: 
-English2,2,D
-
-after you finish listing the courses of a specific semester, write a single underscore '_' as a separator, this helps in providing a detailed report [not yet implemented]
-if you don't want a report just list all the courses without any separators
-
-Ex:
-Course1,CH1,G1
-Course2,CH2,G2
-...
-Course6,CH6,G6
-_
-Course7,CH7,G7
-....
-CourseN,CHN,GN
-
-
-
-
-run gpa_calculator.py
